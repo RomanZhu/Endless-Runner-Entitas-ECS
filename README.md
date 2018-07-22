@@ -14,8 +14,8 @@ Template for Runner genre using Entitas ECS.  Previews: [GIF](https://imgur.com/
 - Timers
 
 ## Controls
-Jump - (W) or (UpArrow) or (Click left side of screen)
-Change player type - (Space) or (Hold right side of screen)
+- Jump - (W) or (UpArrow) or (Click left side of screen)
+- Change player type - (Space) or (Hold right side of screen)
 
 ## Disclaimer
 Template is WIP, there is missing core functional. That project shows how ECS can help to create clear project structure and gives ability to add features without pain.
