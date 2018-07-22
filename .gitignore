@@ -1,0 +1,7 @@
+*.csproj
+*.sln
+.idea/
+Assets/Plugins/Editor/
+Assets/Plugins/Editor.meta
+Library/
+Temp/
