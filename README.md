@@ -1,4 +1,4 @@
-# Endless Runner template for Unity
+# (Discontinued) Endless Runner template for Unity
 Template for Runner genre using Entitas ECS.  Previews: [WebGL](https://sobachken.itch.io/runner-template)
 
 ![Runner template screenshot](https://i.imgur.com/0SXy7iT.gif) 
